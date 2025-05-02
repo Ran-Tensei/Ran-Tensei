@@ -1,5 +1,5 @@
 <h1>👋 Hey! Welcome to my spot.</h1>
-<p>✨ I'm <img src="https://github.com/Ran-Tensei.png" width="15"/> Ran Tensei. | 🎮 Minecraft Mod Developer | 🌏 Based in <img src="https://cdn-icons-png.freepik.com/512/4545/4545025.png" width="15"> <b>China</b>
+<p>✨ I'm <img src="https://github.com/RanTensei.png" width="15"/> Ran Tensei. | 🎮 Minecraft Mod Developer | 🌏 Based in <img src="https://cdn-icons-png.freepik.com/512/4545/4545025.png" width="15"> <b>China</b>
 <h3>🛠 My development toolkit</h3>
 <p>
   <a href="https://parchmentmc.org"><img alt="ParchmentMC" src="https://img.shields.io/badge/-ParchmentMC-FFE4B9?style=for-the-badge"></a>
