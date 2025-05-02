@@ -9,7 +9,7 @@
   <a href="https://gitforwindows.org"><img alt="Git for Windows" src="https://img.shields.io/badge/-Git_for_Windows-80B3FF?style=for-the-badge&logo=gitforwindows&logoColor=FFFFFF"></a>
   <a href="https://www.java.com"><img alt="Java" src="https://img.shields.io/badge/-Java-3A75AF?style=for-the-badge"></a>
   <a href="https://files.minecraftforge.net"><img alt="Minecraft Forge" src="https://img.shields.io/badge/-Minecraft_Forge-1E2D41?style=for-the-badge"></a>
-  <a href="https://www.jetbrains.com/idea"><img alt="Intellij IDEA" src="https://img.shields.io/badge/-Intellij_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF"></a>
+  <a href="https://www.jetbrains.com/idea"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF"></a>
   <a href="https://www.json.org"><img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=FFFFFF"></a>
 </p>
 <h3>🌐 Where to find me</h3>
